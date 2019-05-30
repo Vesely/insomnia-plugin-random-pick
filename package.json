@@ -1,0 +1,23 @@
+{
+    "name": "insomnia-plugin-random-pick",
+    "description": "Random pick value from array'",
+    "license": "MIT",
+    "version": "1.0.0",
+    "author": {
+        "name": "David Veselý",
+        "email": "jsem@davidvesely.cz",
+        "url": "http://davidvesely.cz/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vesely/insomnia-plugin-random-pick"
+    },
+    "main": "plugin.js",
+    "insomnia": {
+        "name": "random-pick",
+        "description": "Random pick value from array'"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {}
+}
