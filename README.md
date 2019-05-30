@@ -1,4 +1,4 @@
-# Insomnia Random Pick From Array Plugin
+# Insomnia Plugin: Pick random item from custom array
 
 This is a plugin for [Insomnia](https://insomnia.rest/).
 
