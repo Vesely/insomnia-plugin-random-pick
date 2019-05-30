@@ -2,7 +2,7 @@
     "name": "insomnia-plugin-random-pick",
     "description": "Random pick value from array'",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "David Veselý",
         "email": "jsem@davidvesely.cz",
