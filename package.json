@@ -17,6 +17,12 @@
         "name": "random-pick",
         "description": "Random pick value from array'"
     },
+    "keywords": [
+        "insomnia",
+        "plugin",
+        "random",
+        "pick"
+    ],
     "scripts": {},
     "devDependencies": {},
     "dependencies": {}
